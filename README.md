@@ -7,3 +7,4 @@ You can find my socials on the left side 👈 (or right side if somehow your eye
 Here's a pretty picture for your time
 
 
+![Snow covered Mountain](mountain.jpg)
